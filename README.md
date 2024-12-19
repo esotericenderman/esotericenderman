@@ -4,8 +4,6 @@
 
 <p align="center"><a href="https://enderman.dev">enderman.dev</a></p>
 
-<p align="center">Developer interested in <b>math</b>, <b>coding</b>, and <b>video games</b>.</p>
-
 <h2 align="center">Contact</h2>
 
 <div align="center">
