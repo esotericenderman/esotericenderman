@@ -10,7 +10,6 @@ enderman.dev
 🔗 Links
 
 • YouTube: https://www.youtube.com/@esotericenderman
-• Steam: https://steamcommunity.com/id/esotericenderman/
 
 🤝 Friends
 • @rolyPolyVole
