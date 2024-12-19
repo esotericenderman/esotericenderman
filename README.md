@@ -19,7 +19,6 @@
 <h2 align="center">Links</h2>
 
 <p align="center">
-    <a href="https://www.github.com/EsotericEnderman"><img src="Assets/Badges/GitHub.svg" alt="GitHub"></a>
     <a href="https://www.npmjs.com/~esotericenderman"><img src="Assets/Badges/npm.svg" alt="npm"></a>
     <a href="https://www.spigotmc.org/members/esotericenderman.2123396/"><img src="Assets/Badges/SpigotMC.svg" alt="SpigotMC"></a>
     <a href="https://www.youtube.com/@esotericenderman"><img src="Assets/Badges/YouTube.svg" alt="YouTube"></a>
