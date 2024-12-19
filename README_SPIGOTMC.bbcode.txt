@@ -4,8 +4,6 @@
 
 Developer interested in [b]math[/b], [b]coding[/b], and [b]video games[/b].
 
-Check out my [b][url=https://www.github.com/EsotericFoundation]organisation[/url][/b]!
-
 [b]Contact[/b]
 
 [table]
