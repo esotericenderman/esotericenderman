@@ -17,7 +17,6 @@ Developer interested in [b]math[/b], [b]coding[/b], and [b]video games[/b].
 
 [list]
   [*][url=https://www.npmjs.com/~esotericenderman]npm[/url]
-  [*][url=https://www.spigotmc.org/members/esotericenderman.2123396/]SpigotMC[/url]
   [*][url=https://namemc.com/profile/EsotericEnderman.1]NameMC[/url]
   [*][url=https://steamcommunity.com/id/esotericenderman/]Steam[/url]
 [/list]
