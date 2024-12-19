@@ -5,4 +5,3 @@ My projects are linked in the links section below.
 
 ✉️ Contact
 • Discord: esotericenderman
-• Email: esotericenderman@gmail.com
