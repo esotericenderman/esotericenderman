@@ -1,6 +1,6 @@
 Developer interested in math, coding, and video games.
 
-https://enderman.dev
+enderman.dev
 
 ✉️ Contact
 
