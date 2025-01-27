@@ -20,11 +20,11 @@
 <h2 align="center">Links</h2>
 
 <p align="center">
-    <a href="https://www.npmjs.com/~esotericenderman"><img src="../main/Assets/Badges/npm.svg" alt="npm"></a>
-    <a href="https://www.spigotmc.org/members/esotericenderman.2123396/"><img src="../main/Assets/Badges/SpigotMC.svg" alt="SpigotMC"></a>
-    <a href="https://www.youtube.com/@esotericenderman"><img src="../main/Assets/Badges/YouTube.svg" alt="YouTube"></a>
-    <a href="https://namemc.com/profile/EsotericEnderman.1"><img src="../main/Assets/Badges/NameMC.svg" alt="NameMC"></a>
-    <a href="https://steamcommunity.com/id/esotericenderman/"><img src="../main/Assets/Badges/Steam.svg" alt="Steam"></a>
+    <a href="https://www.npmjs.com/~esotericenderman"><img src="../main/Assets/Badges/Platforms/npm.svg" alt="npm"></a>
+    <a href="https://www.spigotmc.org/members/esotericenderman.2123396/"><img src="../main/Assets/Badges/Platforms/SpigotMC.svg" alt="SpigotMC"></a>
+    <a href="https://www.youtube.com/@esotericenderman"><img src="../main/Assets/Badges/Platforms/YouTube.svg" alt="YouTube"></a>
+    <a href="https://namemc.com/profile/EsotericEnderman.1"><img src="../main/Assets/Badges/Platforms/NameMC.svg" alt="NameMC"></a>
+    <a href="https://steamcommunity.com/id/esotericenderman/"><img src="../main/Assets/Badges/Platforms/Steam.svg" alt="Steam"></a>
 </p>
 
 <h3 align="center">Friends</h3>
