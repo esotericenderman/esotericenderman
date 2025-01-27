@@ -11,9 +11,9 @@
 
 <div align="center">
 
-| <a href="https://discord.com/users/500690028960284672"><img src="../main/Assets/Badges/Discord.svg" alt="Discord"></a> | <code>esotericenderman</code>          |
-| :----------------------------------------------------------------------------------------------------- | :-------------------------------------- |
-| <a href="https://www.gmail.com/"><img src="../main/Assets/Badges/Email.svg" alt="Email"></a>                   | <code>esotericenderman@gmail.com</code> |
+| <a href="https://discord.com/users/500690028960284672"><img src="../main/Assets/Badges/Discord.svg" alt="Discord"></a> | <code>esotericenderman</code>           |
+| :--------------------------------------------------------------------------------------------------------------------- | :-------------------------------------- |
+| <a href="https://www.gmail.com/"><img src="../main/Assets/Badges/Email.svg" alt="Email"></a>                           | <code>esotericenderman@gmail.com</code> |
 
 </div>
 
