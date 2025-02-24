@@ -1,6 +1,3 @@
-<!-- All links in this file must start with ./main due to a very strange bug on GitHub. -->
-<!-- If the link doesn't start with ./main, images will not be displayed correctly on the user's page. -->
-
 <h1 align="center">Esoteric Enderman</h1>
 
 <p align="center"><a href="https://www.github.com/esotericenderman"><img alt="My profile picture" src="./assets/images/profile.png" width="190" height="190"></a></p>
