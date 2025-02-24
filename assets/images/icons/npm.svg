@@ -1,12 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-    xmlns:xlink="http://www.w3.org/1999/xlink" width="84.75" height="28" role="img" aria-label="NPM">
-    <title>NPM</title>
-    <g shape-rendering="crispEdges">
-        <rect width="32" height="28" fill="white"/>
-        <rect x="32" width="52.75" height="28" fill="#cc3534"/>
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="npm">
+    <style>
+        #npm {
+        path.rect {fill: #242938}
+
+        @media (prefers-color-scheme: light) {
+        path.rect {fill: #F4F2ED}
+        }
+        }
+    </style>
+    <g clip-path="url(#clip0_33_588)">
+        <path d="M196 0H60C26.8629 0 0 26.8629 0 60V196C0 229.137 26.8629 256 60 256H196C229.137 256 256 229.137 256 196V60C256 26.8629 229.137 0 196 0Z" fill="#242938" class="rect"/>
+        <g clip-path="url(#clip1_33_588)">
+            <path d="M23 88H233V156.571H128V168H81.3333V156.571H23V88ZM34.6667 145.143H58V110.857H69.6667V145.143H81.3333V99.4286H34.6667V145.143ZM93 99.4286V156.571H116.333V145.143H139.667V99.4286H93ZM116.333 110.857H128V133.714H116.333V110.857ZM151.333 99.4286V145.143H174.667V110.857H186.333V145.143H198V110.857H209.667V145.143H221.333V99.4286H151.333Z" fill="#CB3837"/>
+            <path d="M34.6667 145.143H58V110.857H69.6667V145.143H81.3334V99.4286H34.6667V145.143Z" fill="white"/>
+            <path d="M93 99.4286V156.571H116.333V145.143H139.667V99.4286H93ZM128 133.714H116.333V110.857H128V133.714Z" fill="white"/>
+            <path d="M151.333 99.4286V145.143H174.667V110.857H186.333V145.143H198V110.857H209.667V145.143H221.333V99.4286H151.333Z" fill="white"/>
+        </g>
     </g>
-    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
-        <image x="9" y="7" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjY2MzNTM0IiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+bnBtPC90aXRsZT48cGF0aCBkPSJNMS43NjMgMEMuNzg2IDAgMCAuNzg2IDAgMS43NjN2MjAuNDc0QzAgMjMuMjE0Ljc4NiAyNCAxLjc2MyAyNGgyMC40NzRjLjk3NyAwIDEuNzYzLS43ODYgMS43NjMtMS43NjNWMS43NjNDMjQgLjc4NiAyMy4yMTQgMCAyMi4yMzcgMHpNNS4xMyA1LjMyM2wxMy44MzcuMDE5LS4wMDkgMTMuODM2aC0zLjQ2NGwuMDEtMTAuMzgyaC0zLjQ1NkwxMi4wNCAxOS4xN0g1LjExM3oiLz48L3N2Zz4="/>
-        <text transform="scale(.1)" x="583.75" y="175" textLength="287.5" fill="#fff" font-weight="bold">NPM</text>
-    </g>
+    <defs>
+        <clipPath id="clip0_33_588">
+            <rect width="256" height="256" fill="white"/>
+        </clipPath>
+        <clipPath id="clip1_33_588">
+            <rect width="210" height="80" fill="white" transform="translate(23 88)"/>
+        </clipPath>
+    </defs>
 </svg>

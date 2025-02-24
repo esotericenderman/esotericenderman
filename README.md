@@ -20,7 +20,7 @@
 <h2 align="center">Links</h2>
 
 <p align="center">
-    <a href="https://www.npmjs.com/~esotericenderman"><img src="./assets/images/icons/npm.svg" alt="npm logo"></a>
+    <a href="https://www.npmjs.com/~esotericenderman"><img src="./assets/images/icons/npm.svg" alt="npm logo" width="25" height="25"></a>
     <a href="https://www.spigotmc.org/members/esotericenderman.2123396/"><img src="./assets/images/icons/spigot.svg" alt="SpigotMC logo"></a>
     <a href="https://www.youtube.com/@esotericenderman"><img src="./assets/images/icons/youtube.svg" alt="YouTube logo" width="25" height="25"></a>
     <a href="https://namemc.com/profile/esotericenderman.1"><img src="./assets/images/icons/namemc.svg" alt="NameMC logo"></a>
