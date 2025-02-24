@@ -1,6 +1,6 @@
 # Esoteric Enderman
 
-[![Project Status: Maintained](./Assets/Badges/Status/Maintained.svg)](./)
+[![Project Status: Maintained](../Assets/Badges/Status/Maintained.svg)](./)
 
 This repository is a bunch of profile information about me.
 
