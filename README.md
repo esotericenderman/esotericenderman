@@ -24,7 +24,7 @@
     <a href="https://www.spigotmc.org/members/esotericenderman.2123396/"><img src="./assets/images/icons/spigot.svg" alt="SpigotMC logo"></a>
     <a href="https://www.youtube.com/@esotericenderman"><img src="./assets/images/icons/youtube.svg" alt="YouTube logo" width="25" height="25"></a>
     <a href="https://namemc.com/profile/esotericenderman.1"><img src="./assets/images/icons/namemc.svg" alt="NameMC logo"></a>
-    <a href="https://steamcommunity.com/id/esotericenderman/"><img src="./assets/images/icons/steam.svg" alt="Steam logo"></a>
+    <a href="https://steamcommunity.com/id/esotericenderman/"><img src="./assets/images/icons/steam.svg" alt="Steam logo" width="25" height="25"></a>
 </p>
 
 <h3 align="center">Friends</h3>
