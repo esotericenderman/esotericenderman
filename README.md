@@ -22,7 +22,7 @@
 <p align="center">
     <a href="https://www.npmjs.com/~esotericenderman"><img src="../main/Assets/Badges/Platforms/npm.svg" alt="npm logo"></a>
     <a href="https://www.spigotmc.org/members/esotericenderman.2123396/"><img src="../main/Assets/Badges/Platforms/SpigotMC.svg" alt="SpigotMC logo"></a>
-    <a href="https://www.youtube.com/@esotericenderman"><img src="../main/Assets/Badges/Platforms/YouTube.svg" alt="YouTube logo"></a>
+    <a href="https://www.youtube.com/@esotericenderman"><img src="../main/Assets/Badges/Platforms/YouTube.svg" alt="YouTube logo" width="25" height="25"></a>
     <a href="https://namemc.com/profile/esotericenderman.1"><img src="../main/Assets/Badges/Platforms/NameMC.svg" alt="NameMC logo"></a>
     <a href="https://steamcommunity.com/id/esotericenderman/"><img src="../main/Assets/Badges/Platforms/Steam.svg" alt="Steam logo"></a>
 </p>
