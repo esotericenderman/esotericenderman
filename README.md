@@ -12,7 +12,11 @@
 </p>
 
 <p align="center">
+    <a href="https://gitlab.com/esotericenderman"><img src="./assets/images/icons/platforms/gitlab.svg" alt="GitLab logo" width="35" /></a>
     <a href="https://www.npmjs.com/~esotericenderman"><img src="./assets/images/icons/platforms/npm.svg" alt="npm logo" width="35" /></a>
+</p>
+
+<p align="center">
     <a href="https://www.spigotmc.org/members/esotericenderman.2123396/"><img src="https://static.spigotmc.org/img/spigot.png" alt="SpigotMC logo" width="35" /></a>
     <a href="https://www.youtube.com/@esotericenderman"><img src="./assets/images/icons/platforms/youtube.svg" alt="YouTube logo" width="35" /></a>
     <a href="https://modrinth.com/user/esotericenderman"><img src="./assets/images/icons/platforms/modrinth.svg" width="35" /></a>
