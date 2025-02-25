@@ -27,6 +27,6 @@
 
 <p align="center">
     <a href="https://github.com/rolyPolyVole">
-        <img src="https://github.com/rolyPolyVole.png" width="45" height="45" alt="rolyPolyVole's profile picture" />
+        <img src="./assets/images/icons/profiles/roly.png" width="45" height="45" alt="rolyPolyVole's profile picture" />
     </a>
 </p>
