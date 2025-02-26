@@ -7,8 +7,8 @@
 <h2 align="center">Links</h2>
 
 <p align="center">
-    <a href="mailto:esotericenderman@gmail.com"><img src="./assets/images/icons/platforms/email.svg" alt="Email logo" width="35"></a>
     <a href="https://discord.com/users/500690028960284672"><img src="./assets/images/icons/platforms/discord.svg" width="35" alt="Discord logo"></a>
+    <a href="mailto:esotericenderman@gmail.com"><img src="./assets/images/icons/platforms/email.svg" alt="Email logo" width="35"></a>
 </p>
 
 <p align="center">
