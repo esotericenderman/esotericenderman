@@ -1,4 +1,4 @@
-Developer interested in math, coding, and video games.
+Ambitious programmer interested in math, game development, and modding.
 
 ⚙️ Projects
 My projects are linked in the links section below.
