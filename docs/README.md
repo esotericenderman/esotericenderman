@@ -1,4 +1,4 @@
-# Esoteric Enderman
+# [Esoteric Enderman][website]
 
 [![Project status: maintained][maintained-status]][root]
 
@@ -11,6 +11,7 @@ github readme profile github-profile github-profile-card readme-md github-profil
 <!-- Link aliases -->
 
 [root]: /
+[website]: https://www.github.com/esotericenderman
 
 <!-- Files -->
 
