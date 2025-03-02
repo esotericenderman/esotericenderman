@@ -1,4 +1,4 @@
-# [Esoteric Enderman][website]
+# [esotericenderman][website]
 
 [![Project status: maintained][maintained-status]][root]
 
