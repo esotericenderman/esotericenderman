@@ -1,6 +1,6 @@
 # [esotericenderman][website]
 
-[![Project status: maintained][maintained-status]][root]
+[![Project status: maintained][status]][root]
 
 This repository is a bunch of profile information about me.
 
@@ -23,4 +23,4 @@ This repository is a bunch of profile information about me.
 
 <!-- status -->
 
-[maintained-status]: ../assets/images/badges/status/maintained.svg
+[status]: ../assets/images/badges/status/maintained.svg
