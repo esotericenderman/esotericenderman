@@ -1,2 +1,5 @@
 # User-specific data for editing these projects with Obsidian
 .obsidian
+
+# IntelliJ IDEA files
+.idea/
