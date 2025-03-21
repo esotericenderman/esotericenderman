@@ -17,7 +17,7 @@
 <sup>By [Simple Icons][simple-icons-author], [Simple Icons contributors][simple-icons-contributors]</sup>\
 <sup>[Licensed][simple-icons-license-notice] under [CC0 1.0][simple-icons-license][^1]</sup>
 
-[^1]: Please see individual licenses where available on the Simple Icons [website][simple-icons].
+[^1]: Please see individual licenses where available on the [Simple Icons website][simple-icons].
 
 <!-- Link aliases -->
 
