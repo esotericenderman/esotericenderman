@@ -19,6 +19,10 @@
 
 [^1]: Please see individual licenses where available on the [Simple Icons website][simple-icons].
 
+## [Enderman Skin][enderman-skin]
+
+<sup>By [Wreeper][enderman-skin-author]</sup>
+
 <!-- Link aliases -->
 
 [simple-icons]: https://simpleicons.org/
@@ -40,6 +44,9 @@
 [skill-icons-fork-contributors]: https://github.com/LelouchFR/skill-icons/graphs/contributors
 [skill-icons-fork-license-statement]: https://github.com/LelouchFR/skill-icons/tree/4541ac82bd12ba65734dfcd23e4624f1576c898a?tab=License-1-ov-file
 [skill-icons-fork-license]: https://github.com/LelouchFR/skill-icons/blob/4541ac82bd12ba65734dfcd23e4624f1576c898a/LICENSE
+
+[enderman-skin]: https://skins.wreeper.com/skins/enderman/
+[enderman-skin-author]: https://wreeper.com/
 
 <!-- Generic licenses -->
 
