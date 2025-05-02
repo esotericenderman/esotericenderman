@@ -12,7 +12,7 @@
     <a href="https://gitlab.com/esotericenderman"><img src="./assets/images/icons/platforms/gitlab.svg" alt="GitLab logo" width="35" /></a>
     <a href="https://www.npmjs.com/~esotericenderman"><img src="./assets/images/icons/platforms/npm.svg" alt="npm logo" width="35" /></a>
     <a href="https://modrinth.com/user/esotericenderman"><img src="./assets/images/icons/platforms/modrinth.svg" width="35" /></a>
-    <a href="https://www.spigotmc.org/members/esotericenderman.2123396/"><img src="https://static.spigotmc.org/img/spigot.png" alt="SpigotMC logo" width="35" /></a>
+    <a href="https://www.spigotmc.org/members/esotericenderman.2123396/"><img src="./assets/images/icons/platforms/spigot.svg" alt="SpigotMC logo" width="35" /></a>
     <a href="https://www.youtube.com/@esotericenderman"><img src="./assets/images/icons/platforms/youtube.svg" alt="YouTube logo" width="35" /></a>
     <a href="https://steamcommunity.com/id/esotericenderman/"><img src="./assets/images/icons/platforms/steam.svg" alt="Steam logo" width="35" /></a>
     <a href="https://namemc.com/profile/EsotericEnderman.1"><img src="./assets/images/icons/platforms/namemc.svg" alt="NameMC logo" width="35" /></a>
