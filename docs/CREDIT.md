@@ -6,7 +6,7 @@
 <sup>By [Thijs][skill-icons-author], [Skill Icons contributors][skill-icons-contributors]</sup>\
 <sup>[Licensed][skill-icons-license-statement] under the [MIT License][skill-icons-license] (also available [locally][mit-license-local])</sup>
 
-## [Skill Icons][skill-icons-fork] (Fork)
+## [Skill Icons][skill-icons-fork] ("Fork")
 
 <sup>[&copy; 2024][skill-icons-fork-copyright] [Baptiste Zahnow][skill-icons-fork-author]</sup>\
 <sup>By [Baptiste Zahnow][skill-icons-fork-author], [Skill Icons contributors][skill-icons-fork-contributors]</sup>\
