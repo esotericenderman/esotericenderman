@@ -29,10 +29,6 @@
 
 [^1]: Please see individual licenses where available on the [Simple Icons website][simple-icons].
 
-## [Enderman Skin][enderman-skin]
-
-<sup>By [Wreeper][enderman-skin-author]</sup>
-
 <!-- Link aliases -->
 
 [shields-io]: https://shields.io/badges
