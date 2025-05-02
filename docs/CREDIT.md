@@ -1,5 +1,15 @@
 # Credit
 
+## [Shields.io][shields-io]
+
+<sup>By [Shields.io][shields-io-author] and [Shields.io contributors][shields-io-contributors]</sup>\
+<sup>[Licensed][shields-io-license-statement] under [CC0][shields-io-license]</sup>
+
+## [Creative Commons Icons][cc-icons]
+
+<sup>By [Creative Commons][cc]</sup>\
+<sup>Licensed under the [Creative Commons Policies][cc-policies]</sup>
+
 ## [Skill Icons][skill-icons]
 
 <sup>[&copy; 2022][skill-icons-copyright] [tandpfun][skill-icons-author]</sup>\
@@ -24,6 +34,17 @@
 <sup>By [Wreeper][enderman-skin-author]</sup>
 
 <!-- Link aliases -->
+
+[shields-io]: https://shields.io/badges
+[shields-io-license-statement]: https://github.com/badges/shields/tree/server-2025-05-01?tab=readme-ov-file#license
+[shields-io-license]: https://github.com/badges/shields/blob/server-2025-05-01/LICENSE
+[shields-io-author]: https://github.com/badges
+[shields-io-contributors]: https://github.com/badges/shields/graphs/contributors
+
+[cc-icons]: https://creativecommons.org/mission/downloads/
+[cc-icons-license]: https://creativecommons.org/policies/
+[cc]: https://creativecommons.org/
+[cc-policies]: https://creativecommons.org/policies/
 
 [simple-icons]: https://simpleicons.org/
 [simple-icons-author]: https://github.com/simple-icons
