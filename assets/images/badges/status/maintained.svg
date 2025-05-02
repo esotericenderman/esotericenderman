@@ -8,7 +8,7 @@
     </g>
 
     <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10">
-        <text x="35.75" y="17" textLength="47.5" lengthAdjust="spacing">STATUS</text>
-        <text x="126.75" y="17" textLength="86.5" lengthAdjust="spacing" font-weight="bold">MAINTAINED</text>
+        <text x="35.75" y="18" textLength="47.5" lengthAdjust="spacing">STATUS</text>
+        <text x="126.75" y="18" textLength="86.5" lengthAdjust="spacing" font-weight="bold">MAINTAINED</text>
     </g>
 </svg>
