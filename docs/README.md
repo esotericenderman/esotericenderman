@@ -4,9 +4,16 @@
 
 This repository is a bunch of profile information about me.
 
-## Information
+## Links
 
+- [Source][root]
 - [Credit][credit]
+
+### Contact
+
+- Website: [`enderman.dev`][author]
+- E-mail: [`esotericenderman@gmail.com`][email]
+- Discord: [`esotericenderman`][discord]
 
 ## License
 
@@ -20,7 +27,10 @@ This repository is a bunch of profile information about me.
 
 ## Disclaimer
 
-<sup>NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.</sup>
+<sup>[Esoteric Enderman][author] (not [Mojang][mojang] or [Microsoft][microsoft]) is responsible for this [product][root].</sup>\
+<sup>[Esoteric Enderman][author] is the owner and publisher of this [product][root].</sup>\
+<sup>[Esoteric Enderman][author] can be contacted about the [product][root] via one of the contact methods outlined [above](#contact).</sup>\
+<sup>NOT AN OFFICIAL [MINECRAFT][minecraft] PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH [MOJANG][mojang] OR [MICROSOFT][microsoft].</sup>
 
 ## Topics
 
@@ -28,8 +38,12 @@ This repository is a bunch of profile information about me.
 
 <!-- Link aliases -->
 
-[root]: /
+[root]: https://github.com/esotericenderman/esotericenderman
 [website]: https://www.github.com/esotericenderman
+[author]: https://enderman.dev
+
+[email]: mailto:esotericenderman@gmail.com
+[discord]: https://discord.com/users/500690028960284672
 
 <!-- Local -->
 
@@ -38,3 +52,9 @@ This repository is a bunch of profile information about me.
 <!-- Badges -->
 
 [status]: ../assets/images/badges/status/maintained.svg
+
+<!-- Minecraft -->
+
+[minecraft]: https://www.minecraft.net/
+[mojang]: https://minecraft.wiki/w/Mojang_Studios
+[microsoft]: https://www.microsoft.com/
