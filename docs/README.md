@@ -31,16 +31,10 @@ This repository is a bunch of profile information about me.
 [root]: /
 [website]: https://www.github.com/esotericenderman
 
-<!-- Files -->
-
 <!-- Local -->
 
 [credit]: ./CREDIT.md
 
-<!-- Images -->
-
 <!-- Badges -->
-
-<!-- status -->
 
 [status]: ../assets/images/badges/status/maintained.svg
