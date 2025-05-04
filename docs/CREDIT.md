@@ -29,6 +29,16 @@
 
 [^1]: Please see individual licenses where available on the [Simple Icons website][simple-icons].
 
+### [Minecraft][minecraft] [1.21.5][minecraft-1.21.5]
+
+<sup>&copy; [Mojang AB][mojang]</sup>\
+<sup>Licensed under the [Minecraft EULA][minecraft-eula], [Minecraft Usage Guidelines][minecraft-usage-guidelines] and [Microsoft Services Agreement][microsoft-services-agreement]</sup>
+
+### [GIMP][gimp] [2.10.34][gimp-2.10.34]
+
+<sup>By [GIMP authors][gimp-authors]</sup>\
+<sup>Licensed under [several licenses][gimp-license]</sup>
+
 <!-- Link aliases -->
 
 [shields-io]: https://shields.io/badges
@@ -62,8 +72,25 @@
 [skill-icons-fork-license-statement]: https://github.com/LelouchFR/skill-icons/tree/4541ac82bd12ba65734dfcd23e4624f1576c898a?tab=License-1-ov-file
 [skill-icons-fork-license]: https://github.com/LelouchFR/skill-icons/blob/4541ac82bd12ba65734dfcd23e4624f1576c898a/LICENSE
 
-[enderman-skin]: https://skins.wreeper.com/skins/enderman/
-[enderman-skin-author]: https://wreeper.com/
+<!-- Minecraft -->
+
+[minecraft]: https://www.minecraft.net/
+[minecraft-1.21.5]: https://minecraft.wiki/w/Java_Edition_1.21.5
+[mojang]: https://minecraft.wiki/w/Mojang_Studios
+[microsoft]: https://www.microsoft.com/
+
+<!-- EULA -->
+
+[microsoft-services-agreement]: https://www.microsoft.com/servicesagreement
+[minecraft-eula]: https://www.minecraft.net/eula
+[minecraft-usage-guidelines]: https://www.minecraft.net/usage-guidelines
+
+<!-- GIMP -->
+
+[gimp]: https://www.gimp.org/
+[gimp-2.10.34]: https://gitlab.gnome.org/GNOME/gimp/-/tree/b073805fb3cc3563aa0278573fb74364862ca21b
+[gimp-license]: https://gitlab.gnome.org/GNOME/gimp/-/blob/b073805fb3cc3563aa0278573fb74364862ca21b/LICENSE
+[gimp-authors]: https://gitlab.gnome.org/GNOME/gimp/-/blob/b073805fb3cc3563aa0278573fb74364862ca21b/AUTHORS
 
 <!-- Generic licenses -->
 
